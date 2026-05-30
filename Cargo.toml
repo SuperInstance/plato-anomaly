@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "Anomaly detection methods for PLATO tile streams"
 license = "Apache-2.0"
+repository = "https://github.com/SuperInstance/plato-anomaly"
 
 [dependencies]
 serde = { version = "1", features = ["derive"] }
